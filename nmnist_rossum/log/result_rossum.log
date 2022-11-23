@@ -1,0 +1,5 @@
+INFO:root:dataset name: NMNIST, epoch:50, batch size:100, lr:0.0003
+INFO:root:tau: 0.8, tau_s: 1.1, vth: 0.2, time window:25
+INFO:root:Epoch 0 [101/600] ANN Training Loss:0.120169 Accuracy:0.558119
+INFO:root:Epoch 0 [201/600] ANN Training Loss:0.100196 Accuracy:0.839500
+INFO:root:Epoch 0 [301/600] ANN Training Loss:0.090150 Accuracy:0.888300

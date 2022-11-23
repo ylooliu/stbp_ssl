@@ -1,0 +1,1 @@
+NMNIST_Converter('Train',1,5)
